@@ -1,0 +1,7 @@
+GRID-AUTO-ROWS:
+    The CSS grid-auto-rows property sets the size of rows that are automatically added 
+    to a grid layout when more rows are needed to contain grid items. 
+
+GRID-AUTO-COLUMNS:
+    The CSS grid-auto-columns property sets the size of columns that are automatically 
+    added to a grid layout when more columns are needed to contain grid items.
